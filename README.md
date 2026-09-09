@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fivelabs-logo.png" width="120" alt="FiveLabs Logo" />
+<img src="./assets/fivelabs-banner.png" width="1672" alt="FiveLabs Logo" />
 
 # FiveLabs
 
